@@ -1,0 +1,8 @@
+This is an assortment of security tools and frameworks in various stages of development. Currently, key projects contained here include:
+
+OAT Security Framework - A simple, structured framework to help the small organizations think about security.
+
+HACCS (Highly Automated Control Centric Security) – My effort to (as far as possible) automate detection of adherence to basic cybersecurity controls for small businesses, such as those laid out by NIST or NCSC/CyberEssentials.
+
+SCAT (suspicious commit analysis tool) – flag out-of-character commits and CRs
+
